@@ -1,0 +1,5 @@
+.nextflow.log*
+.nextflow/
+CH-20190730/
+report.html*
+report*
